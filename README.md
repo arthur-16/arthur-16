@@ -1,8 +1,8 @@
-[![MasterHead](https://imgur.com/xn0bYJ8)]
+![MasterHead](https://raw.githubusercontent.com/arthur-16/arthur-16/master/imgs/readmeheader.jpg)
 <h1 align="center">Hi 👋, I'm Arthur Scott.</h1>
 <h3 align="center">Passionate NYC Based Programmer. Driven by impactful work.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://imgur.com/a/U3uVn0d"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arthur-16/arthur-16/master/imgs/nubelson-fernandes-UcYBL5V0xWQ-unsplash.jpg"/>
 
 
 - 🔭 I’m currently working on [(Project name here)]((Project link here))
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1QR4vKnGDTLK0_Zr-J0Xk1EPlTNdw29dlN0DGeq7lSpw/edit?usp=sharing](https://docs.google.com/document/d/1QR4vKnGDTLK0_Zr-J0Xk1EPlTNdw29dlN0DGeq7lSpw/edit?usp=sharing)
 
-- ⚡ Fun fact **I love fashion, art, and sports! (Knicks 😅)**
+- ⚡ Fun fact **I love fashion, art, and sports! (Go Knicks 😅)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
