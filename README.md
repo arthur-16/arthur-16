@@ -1,11 +1,13 @@
 ![MasterHead](https://raw.githubusercontent.com/arthur-16/arthur-16/master/imgs/readmeheader.jpg)
-<h1 align="center">Hi 👋, I'm Arthur Scott.</h1>
+<h1 align="center">Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I'm Arthur Scott.</h1>
 <h3 align="center">Passionate NYC Based Programmer. Driven by impactful work.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arthur-16/arthur-16/master/imgs/nubelson-fernandes-UcYBL5V0xWQ-unsplash.jpg"/>
 
 
-- 🔭 I’m currently working on [(Project name here)]((Project link here))
+- 🔭 I’m currently working on Bug Tracker Application
 
 - 🌱 I’m currently learning **CS50, Java, Algorithms & Data Structures, Continuing To Gain Experience With Technologies Below and New Ones As Well!**
 
