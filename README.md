@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/arthur-16/arthur-16/master/imgs/readmeheader.jpg)
 <h1 align="center">Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" max-width="10px" max-height="10px"/>
-  , I'm Arthur Scott.</h1>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" max-width="10px" max-height="10px"/> -->
+ 👋 , I'm Arthur Scott.</h1>
 <h3 align="center">Passionate NYC Based Programmer. Driven by impactful work.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arthur-16/arthur-16/master/imgs/nubelson-fernandes-UcYBL5V0xWQ-unsplash.jpg"/>
